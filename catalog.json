@@ -1,0 +1,31 @@
+{
+  "formatVersion": 1,
+  "license": "CC-BY-4.0",
+  "publisher": "xulianglong-akk",
+  "pets": [
+    {
+      "slug": "patch",
+      "sha256": "a95eaf7b6745090b1fc6bfff8fc396b85e333d798a5d24476277057f0139051b",
+      "bytes": 3353877,
+      "dimensions": [
+        1536,
+        2288
+      ],
+      "spriteVersionNumber": 2,
+      "structuralValidation": true,
+      "exportNormalization": "Cleared unused cells; retained required pose pixels."
+    },
+    {
+      "slug": "silver-haired-companion",
+      "sha256": "dbf303ebde1a075dfbac0d366e1ce501aba2e4223f36ae6a9b706282b5e93dee",
+      "bytes": 2274018,
+      "dimensions": [
+        1536,
+        2288
+      ],
+      "spriteVersionNumber": 2,
+      "structuralValidation": true,
+      "exportNormalization": "Cleared unused cells; retained required pose pixels."
+    }
+  ]
+}
